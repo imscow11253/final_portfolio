@@ -1,0 +1,95 @@
+body{
+  background-color: black;
+}
+
+.welcome{
+  color: white;
+  font-family: mocospace;
+  letter-spacing: 5px;
+  font-size: 50px;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 50px;
+}
+
+.my-info{
+  color: white;
+  font-family: mocospace;
+  padding-left: 100px;
+}
+
+.projects,
+.languages{
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.project-td{
+  color: white;
+  width: 430px;
+  height: 500px;
+  text-align: center;
+}
+
+.img{
+  width:350px;
+  height: 400px;
+  padding-top: 0px;
+  border-radius: 7px;
+-moz-border-radius: 7px;
+-khtml-border-radius: 7px;
+-webkit-border-radius: 7px;
+}
+
+.intro{
+  color: while;
+  font-family: mocospace;
+}
+
+a{
+  text-decoration:none !important;
+  color: white;
+}
+
+.intro-us,
+.intro-us2{
+  color: white;
+  font-family: mocospace;
+  letter-spacing: 5px;
+  font-size: 35px;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+
+.about-us{
+  color: white;
+  width: 700px;
+  position: relative;
+  top: 0px;
+	left: 700px;
+}
+
+.languages-td{
+  width: 330px;
+  height: 300px;
+  text-align: center;
+}
+
+.languages-img{
+  width: 200px;
+  height: 200px;
+}
+
+.languages-name{
+  color: white;
+  font-family: mocospace;
+}
+
+.last{
+  text-align: center;
+  color:rgb(0, 0, 0);
+  height: 30px;
+  background-color: rgb(187, 181, 171);
+}
